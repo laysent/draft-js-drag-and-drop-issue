@@ -34,3 +34,6 @@
 .public-DraftEditor-content, .DraftEditor-editorContainer {
   height: 100%;
 }
+.DraftEditor-editorContainer {
+  padding: 5px;
+}
