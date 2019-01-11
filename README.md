@@ -1,3 +1,8 @@
+# Status of this issue
+
++ [x] Issue [#1725](https://github.com/facebook/draft-js/pull/1725) has been merged to master branch
++ [ ] New version with this issue fixed has been release to npm server
+
 # How to reproduce
 
 Use `npm run start` to run the demo. Then do following steps:
